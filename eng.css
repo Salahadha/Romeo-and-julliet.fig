@@ -1,0 +1,480 @@
+body{
+
+background-color: rgba(255, 255, 255, 0.77);
+margin: 0;
+padding:0;
+
+}
+
+
+.img1{ 
+
+width:150px ;
+height: 150px; 
+
+margin: 10px;
+margin-left: 650px;
+
+
+
+}
+
+header{ 
+
+background-color: rgba(218, 123, 205, 0.403);
+
+
+}
+
+
+.one{ 
+
+
+background-image: url(Screenshot\ 2025-05-22\ at\ 6.40.28\ PM.jpg);
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+
+.h1one{ 
+
+
+color: rgba(255, 255, 255, 0.884);
+
+text-align: center;
+
+font-size: 100px;
+
+}
+
+
+.pone{
+
+
+color:rgba(255, 255, 255, 0.884); 
+text-align: center;
+
+
+
+
+}
+
+
+
+.borderdiv{ 
+
+border-width: 10px;
+border-radius: 4px;
+border-color: palevioletred;
+
+border-style: solid;
+
+
+
+
+
+
+}
+
+.mmm{ 
+
+
+
+margin-left: 20px; 
+
+display: flex;
+
+
+} 
+.img22{
+
+margin-left: 250px;
+margin-bottom: 30px;
+width: 300px;
+
+
+
+
+
+}
+
+.h111{
+
+
+text-align: center;
+margin: 35px;
+
+
+
+}
+
+.hhh{
+
+
+margin-left: 40px;
+
+
+
+} 
+
+.img23{ 
+
+
+width: 400px;
+
+margin-left:40px ;
+
+
+
+}
+
+.chara{ 
+
+
+display: flex;
+
+
+} 
+
+.ppp{
+
+
+margin-left: 70px;
+margin-top:120px;
+
+font-size: 18px;
+
+
+
+}
+
+.head{
+
+
+display: flex;
+
+
+
+
+}
+
+.links{   
+
+display: flex;
+margin-top: 80px;
+
+margin-left: 400px;
+text-decoration: none;
+color: white;
+
+
+}
+
+.home{
+
+   margin-right: 30px;
+    text-decoration: none;
+    color:purple;
+font-size: 20px;
+}
+
+
+.about{
+
+   margin-right: 20px;
+    text-decoration: none;
+    color:purple;
+font-size: 20px;
+
+
+}
+
+:hover.home{
+
+
+color:white;
+font-size: 30px;
+}
+
+:hover.about{
+
+
+color: white;
+font-size: 30px;
+
+}
+
+.link1{
+
+
+    text-decoration: none;
+text-align: center;
+    margin-left: 1000px;
+    margin-bottom: 200px;
+
+
+} 
+
+:hover.link1{
+
+
+font-size: 20px;
+
+
+}
+
+
+.devices{ 
+
+margin-left: 390px;
+display: flex;
+ 
+
+}
+
+
+
+
+.link2{
+
+
+padding: 15px;
+margin: 20px; 
+
+font-size: 25px;
+border-radius: 15px; 
+border-width: 5px;
+border-style: solid;
+border-color: blue;
+background-color: lightblue;
+
+
+
+
+
+
+}
+
+.link22{
+
+text-decoration: none;
+
+
+}
+
+
+:hover.link2{
+
+font-size: 40px;
+background-color: pink;
+color: purple;
+border-color: purple;
+
+
+
+}
+
+:hover.link22{
+
+
+color: purple;
+
+font-size: 40px;
+
+}
+
+
+
+/* here is the Fuguratice Language */ 
+
+.hfig{
+
+
+text-align: center; 
+
+
+}
+
+
+
+.h2fig{
+
+margin-left: 20px;
+
+
+
+}
+
+.pfig{
+
+margin-left: 20px;
+padding: 5px;
+
+
+}
+
+.fig{
+
+
+
+display: flex;
+
+
+
+}
+
+
+.video{
+
+
+margin-left: 150px;
+
+
+}
+
+.types{
+
+
+margin-left: 40px;
+
+}
+
+
+.footer{ 
+
+
+
+text-align: center;
+
+color: purple;
+background-color: pink;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.ul{   
+
+
+font-size: 30px;
+
+
+}
+
+
+.h2sym{ 
+
+
+margin-left: 20px;
+
+
+}
+
+
+.psym{
+
+margin-left: 20px;
+
+}
+
+
+.video2{ 
+
+margin-left: 150px;
+
+}
+
+
+.symbo{
+
+display: flex;
+
+
+
+}
+
+.types2{
+
+
+
+margin-left:1000px;
+margin: 10px;
+
+
+}
+
+
+
+.div3{
+
+
+display: flex;
+margin-left: 20px;
+
+}
+
+
+
+
+.video3{
+
+
+
+margin-left: 150px;
+
+
+}
+
+.h2theme{
+
+
+margin-left: 20px;
+
+}
+
+
+.types4{
+
+margin-left: 40px;
+margin: 10px;
+
+
+}
+
+
+.devip{
+
+
+margin-left: 50px;
+color: red;
+
+
+
+}
+
+
+.backup{
+
+
+
+text-decoration: none;
+color: purple;
+text-align: center;
+font-size: 25px;
+background-color: paleturquoise;
+margin-left: 650px;
+
+
+
+
+
+}
